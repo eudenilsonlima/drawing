@@ -8,7 +8,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Desenho de um desenho digital, em preto e branco, do Goku Black"
+      "Foto de um desenho digital, em preto e branco, do Goku Black"
     )
   } else {
     img.setAttribute("src", "./assets/avatar.png")
